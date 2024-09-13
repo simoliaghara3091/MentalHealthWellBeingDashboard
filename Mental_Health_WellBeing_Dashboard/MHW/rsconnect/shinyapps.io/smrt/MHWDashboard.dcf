@@ -1,0 +1,12 @@
+name: MHWDashboard
+title: MHWDashboard
+username: smrt
+account: smrt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12038567
+bundleId: 8648874
+url: https://smrt.shinyapps.io/MHWDashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
